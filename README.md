@@ -1,3 +1,5 @@
+> **This repository is archived and no longer maintained.** For a current alternative, see [the React video calling tutorial](https://getstream.io/video/sdk/react/tutorial/video-calling/).
+
 # Stream Chat Boilerplate API
 
 > **_This API is not meant for production as there is no auth in place. Please use carefully in testing and development environments only!_**
